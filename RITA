@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rita Falcão</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="css/templatemo-style.css">
+<!--
+    
+
+-->
+</head>
+<body>
+    <!-- Page Loader -->
+    <div id="loader-wrapper">
+        <div id="loader"></div>
+
+        <div class="loader-section section-left"></div>
+        <div class="loader-section section-right"></div>
+
+    </div>
+    <center><img src="img/img01.png" width="150" ></center>
+    <style>
+        img{
+            border-radius: 50%;
+        }
+    </style>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <i class="fas fa-film mr-2"></i>
+                Rita Falcão
+            </a>
+          
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link nav-link-1 active" aria-current="page" href="index.html">Página Inicial</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link nav-link-3" href="sm.html">Sobre Mim</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-4" href="contact.html">Contato</a>
+                </li>
+            </ul>
+            </div>
+        </div>
+    </nav>
+
+   
+
+    <div class="container-fluid tm-container-content tm-mt-60">
+        <div class="row mb-4">
+            <h2 class="col-6 tm-text-primary">
+                Variedades de produtos de boa qualidade
+            </h2>
+            
+        </div>
+        <div class="row tm-mb-90 tm-gallery">
+        	<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img02.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img2.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img03.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img3.html">Produtos</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img04.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img4.html">Produtos</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img05.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img5.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img06.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img6.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img07.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img7.html">Produdo</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img08.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img8.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img09.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img9.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img10.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img10.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img11.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img11.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img12.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img12.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img13.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img13.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img14.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img14.html">produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img15.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img15.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="img/img16.png" alt="Image" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>Clique Aqui</h2>
+                        <a href="img16.html">Produto</a>
+                    </figcaption>                    
+                </figure>
+                
+            </div>
+              
+        
+        
+    <footer class="tm-bg-gray pt-5 pb-3 tm-text-gray tm-footer">
+        <div class="container-fluid tm-container-small">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-12 px-5 mb-5">
+                    <h3 class="tm-text-primary mb-4 tm-footer-title">Rita Falcão</h3>
+                    <p>Rita Falcão<a rel="sponsored" href="https://api.whatsapp.com/send?moto g one fusion=553197945094&text=Entrar%20em%20contato">Clique Aqui</a> </p>
+                </div>
+                
+            <div class="row">
+                <div class="col-lg-8 col-md-7 col-12 px-5 mb-3">
+                    Rita Falcão 2023 
+                </div>
+                
+            </div>
+        </div>
+    </footer>
+    
+    <script src="js/plugins.js"></script>
+    <script>
+        $(window).on("load", function() {
+            $('body').addClass('loaded');
+        });
+    </script>
+</body>
+<style>
+body{
+    background: cyan;
+}
+
+</style>
+</html>
